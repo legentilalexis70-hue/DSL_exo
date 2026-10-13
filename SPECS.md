@@ -1,1 +1,2 @@
-The algorithm takes as input an integer n, and outputs the sum of ints from 1 to n
+
+Un algorithme qui prend en entrée un entier n, et qui sort un entier égal à la somme des entiers de 1 à n.
